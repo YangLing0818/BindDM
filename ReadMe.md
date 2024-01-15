@@ -32,10 +32,10 @@ python evaluate.py
 
 ### Citation
 ```
-@article{huang2022binddm,
+@article{huang2024binddm,
   title={Binding-Adaptive Diffusion Models for Structure-Based Drug Design},
   author={Huang, Zhilin and Yang, Ling and Zhang, Zaixi and Zhou, Xiangxin and Bao, Yu and Zheng, Xiawu and Yang, Yuwei and Wang, Yu and Yang, Wenming},
   journal={arXiv preprint arXiv:2211.11138},
-  year={2023}
+  year={2024}
 }
 ```
