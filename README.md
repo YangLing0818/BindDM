@@ -2,6 +2,10 @@
 
 Official implementation for "[Binding-Adaptive Diffusion Models for Structure-Based Drug Design](./paper/BindDM-AAAI2024.pdf)" **(AAAI 2024)**.
 
+
+![Alt text](image.png)
+**Overview**: BindDM extracts subcomplex from protein-ligand complex, and utilizes it to enhance the binding-adaptive 3D molecule generation in complex.
+
 ### Environment
 
 ```shell
