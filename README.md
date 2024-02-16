@@ -1,6 +1,6 @@
 ## Binding-Adaptive Diffusion Models for Structure-Based Drug Design
 
-Official implementation for "[Binding-Adaptive Diffusion Models for Structure-Based Drug Design]()" **(AAAI 2024)**.
+Official implementation for "[Binding-Adaptive Diffusion Models for Structure-Based Drug Design](./paper/BindDM-AAAI2024.pdf)" **(AAAI 2024)**.
 
 ### Environment
 
@@ -32,10 +32,10 @@ python evaluate.py
 
 ### Citation
 ```
-@article{huang2024binddm,
+@inproceedings{huang2024binddm,
   title={Binding-Adaptive Diffusion Models for Structure-Based Drug Design},
   author={Huang, Zhilin and Yang, Ling and Zhang, Zaixi and Zhou, Xiangxin and Bao, Yu and Zheng, Xiawu and Yang, Yuwei and Wang, Yu and Yang, Wenming},
-  journal={arXiv preprint arXiv:2211.11138},
+  booktitle={The AAAI Conference on Artificial Intelligence},
   year={2024}
 }
 ```
