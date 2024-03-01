@@ -1,6 +1,6 @@
 ## Binding-Adaptive Diffusion Models for Structure-Based Drug Design
 
-Official implementation for "[Binding-Adaptive Diffusion Models for Structure-Based Drug Design](./paper/BindDM-AAAI2024.pdf)" **(AAAI 2024)**.
+Official implementation for "[Binding-Adaptive Diffusion Models for Structure-Based Drug Design](https://arxiv.org/abs/2402.18583)" **(AAAI 2024)**.
 
 
 ![Alt text](image.png)
