@@ -1,6 +1,8 @@
 ## Binding-Adaptive Diffusion Models for Structure-Based Drug Design
 
-Official implementation for "[Binding-Adaptive Diffusion Models for Structure-Based Drug Design](https://arxiv.org/abs/2402.18583)" **(AAAI 2024)**.
+Official implementation for "[Binding-Adaptive Diffusion Models for Structure-Based Drug Design](https://ojs.aaai.org/index.php/AAAI/article/view/29162)" **(AAAI 2024)**.
+
+*Affiliation: Tsinghua University, Peking University, University of Science and Technology of China, University of Chinese Academy of Sciences, ByteDance, Peng Cheng Laboratory.*
 
 
 ![Alt text](image.png)
